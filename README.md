@@ -1,11 +1,7 @@
-## My Project
+## Mangrove Landcover Classification
 
-TODO: Fill this README out!
+Sample notebooks to demonstrate how to use AWS SageMaker to build a machine learning model that can classify mangrove regions from Google Earth Engine satellite images. 
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
